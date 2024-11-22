@@ -4,4 +4,4 @@
 
 *Using it right now to make this readme :)*
 
-![Chillguy](https://imgur.com/a/S7gUrIg.png)
+![Chillguy](https://i.imgur.com/a/S7gUrIg.png)
