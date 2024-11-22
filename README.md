@@ -4,4 +4,4 @@
 
 *Using it right now to make this readme :)*
 
-![Imgur](https://i.imgur.com/NaaX28r.png){:height="250px" width="250px"}.
+![Imgur](https://i.imgur.com/NaaX28r.png)
